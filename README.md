@@ -1,1 +1,1 @@
-# python_chat_bot
+Simple chatBot in Python.
